@@ -1,2 +1,2 @@
-# companyTemplate
-Fully responsive elegant company Template, including mega menu, hemo image, designed information sections, tab information replaced with a click, informative footer menu.
+# WantCoffeeTemplate
+Fully responsive Coffee Template, include custom button, to change the font famil template and color template.
